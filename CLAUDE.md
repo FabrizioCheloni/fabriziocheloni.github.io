@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a static personal portfolio website for Fabrizio Cheloni, an audio programmer and entrepreneur. The site is hosted on GitHub Pages at https://fabriziocheloni.github.io/fabriziocheloni/ (no custom domain) and showcases professional services, contact information, and background.
+This is a static personal portfolio website for Fabrizio Cheloni, an audio programmer and entrepreneur. The site is hosted on GitHub Pages at https://fabriziocheloni.github.io/ (no custom domain) and showcases professional services, contact information, and background.
 
 ## Architecture
 
@@ -29,7 +29,7 @@ This is a static personal portfolio website for Fabrizio Cheloni, an audio progr
 
 ## Deployment
 
-This site is deployed via GitHub Pages at https://fabriziocheloni.github.io/fabriziocheloni/ (no custom domain, no `CNAME` file). Keep asset links relative, since the site is served from the `/fabriziocheloni/` subpath. No build commands are needed - changes to HTML/CSS files are deployed automatically when pushed to the main branch.
+This site is deployed via GitHub Pages at https://fabriziocheloni.github.io/ (no custom domain, no `CNAME` file). The repo is named `fabriziocheloni.github.io`, so GitHub serves it from the root URL. No build commands are needed - changes to HTML/CSS files are deployed automatically when pushed to the main branch.
 
 ## Common Tasks
 
